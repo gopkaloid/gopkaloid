@@ -4,3 +4,5 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-black?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/-jupyter-black?style=plastic&logo=jupyter)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopkaloid&hide=contribs,prs)
