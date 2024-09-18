@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/gopkaloid/gopkaloid/blob/main/000238.gif" alt="The Unlimited" width="600">
+<img src="https://github.com/gopkaloid/gopkaloid/blob/main/1646325081_ecualizador_abajo.gif" alt="The Unlimited" width="600">
 
 ![Static Badge](https://img.shields.io/badge/py-python-black?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/-jupyter-black?style=plastic&logo=jupyter)
